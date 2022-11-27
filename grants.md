@@ -20,9 +20,9 @@ Cooperation. We want to hear about your project, and even your ambitions if you 
 
 ## Who can apply?
 
-Anyone building or running a project on the Chia blockchain on a budget. Our requirements are very flexible - as a rule of thumb, if your project is about to be launched or you ran out of free credits, you can jus contact us. Projects that have already been launched are also highly encouraged to apply if they want to integrate with our service.
+Anyone building or running a project on the Chia blockchain on a budget. Our requirements are very flexible - as a rule of thumb, if your project is about to be launched or you ran out of free credits, you can just contact us. Projects that have already been launched are also highly encouraged to apply if they want to integrate with our service.
 
-We ask porjects to keep in mind that we also have bills to pay. Grants will be given to those want to try out the platform or pay the costs from their own pocket but, if you have the funds necessary, you are kindly asked to pay for our service. If unsure, just write us a message explaining your situation.
+We ask projects to keep in mind that we also have bills to pay. Grants will be given to those want to try out the platform or pay the costs from their own pocket but, if you have the funds necessary, you are kindly asked to pay for our service. If unsure, just write us a message explaining your situation.
 
 ## How to apply?
 
