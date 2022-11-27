@@ -4,7 +4,7 @@ API keys can be created by pressing the 'Generate' button of the 'API Keys' sect
 
 ## Name
 
-The name is something that is only visible to you. It is intended to help you distinguish between different API keys. To avoid confusion, it is highly recommended that you use a highly suggestive name.
+The name is something that is only visible to you. It is intended to help you distinguish between different API keys. To avoid confusion, it is recommended that you use a highly suggestive name.
 
 ## Origin
 
