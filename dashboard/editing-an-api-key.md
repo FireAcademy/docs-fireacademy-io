@@ -4,7 +4,7 @@ API keys can be modified by using the 'Modify' button from the corresponding ent
 
 ## Name
 
-The name is something that is only visible to you. It is intended to help you distinguish between different API keys. To avoid confusion, it is highly recommended that you use a highly suggestive name.
+The name is something that is only visible to you. It is intended to help you distinguish between different API keys. To avoid confusion, it is highly recommended that you use a suggestive name.
 
 ## Origin
 
