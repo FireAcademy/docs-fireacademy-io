@@ -1,6 +1,6 @@
 # Dashboard API
 
-The dashboard API can be accessed by anyone. Its source code can be found [here](https://github.com/FireAcademy/catchpole/blob/master/dashboard\_api.go). Keep in mind that all requests need to have the `Authorization` header set with the Firebase authentication token of the user. All requests should use JSON encoding. The base URL for this api is `https://kraken.fireacademy.io`.
+The dashboard API can be accessed by anyone. Its source code can be found [here](https://github.com/FireAcademy/catchpole/blob/master/dashboard\_api.go). Keep in mind that all requests need to have the `Authorization` header set to the Firebase authentication token of the user (no preceding `Bearer` ). All requests should use JSON encoding. The base URL for this api is `https://kraken.fireacademy.io`.
 
 
 
