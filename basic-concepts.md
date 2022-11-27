@@ -24,4 +24,4 @@ One could think of our credit system as an abstraction layer. Instead of billing
 
 Something very important to mention is that credits can also be obtained via gift codes, which can be given at the discretion of the almighty admin (also see: [grants](grants.md)).
 
-Formerly known as 'traffic' on our old platform.
+Fun fact: Credits were formerly known as 'traffic' on our old platform, which generated a lot of confusion.
