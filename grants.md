@@ -26,4 +26,6 @@ We ask projects to keep in mind that we also have bills to pay. Grants will be g
 
 ## How to apply?
 
-Decided to apply? That's great! This 'company' is currently ran by one person, so there's no need to be formal or present a 100-page proposal. Just drop [yakuh1t0](https://twitter.com/yakuh1t0) a message explaining what you're building and why you want/need the grant. Established projects can just ask for it. An estimate of your weekly or monthly requests would be greatly appreciated, but is not needed.
+Decided to apply? That's great! This 'company' is currently ran by one person, so there's no need to be formal or present a 100-page proposal. Just drop [yakuh1t0](https://twitter.com/yakuh1t0) a message explaining what you're building and why you want/need the grant.
+
+An estimate of your weekly or monthly requests would be greatly appreciated, but is not needed.
