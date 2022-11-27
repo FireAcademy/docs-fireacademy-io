@@ -2,7 +2,9 @@
 
 There are a lot of ways to get in touch with us! Please choose the one that is the most convenient to you.
 
+## Email
 
+You can reach us at `support@fireacademy.io`
 
 ## Twitter
 
@@ -11,10 +13,6 @@ Feel free to engage with us at [@fireacademyio](https://twitter.com/fireacademyi
 ## Discord
 
 [Our Discord](https://discord.gg/yNVNvQyYXn) has a dedicated channel for saying 'gm'.
-
-## Email
-
-You can reach us at `support@fireacademy.io`
 
 ## Pigeon Post
 
