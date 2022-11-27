@@ -3,13 +3,7 @@
 * [Welcome](README.md)
 * [Grants](grants.md)
 * [FAQ](faq.md)
-
-## Basic Concepts
-
-* [Chia](basic-concepts/chia.md)
-* [RPC](basic-concepts/rpc.md)
-* [API Keys](basic-concepts/api-keys.md)
-* [Credits](basic-concepts/credits.md)
+* [Basic Concepts](basic-concepts.md)
 
 ## Dashboard
 
