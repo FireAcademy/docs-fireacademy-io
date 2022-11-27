@@ -14,7 +14,7 @@ You shouldn't. FireAcademy.io uses Stripe for billing - we don't handle the data
 
 ## Don't you care about decentralization?
 
-We do - that's why we chose the Chia blockchain in the first place! We do think, however, that an Infura-like provider will exist anyway for a variety of reasons. We think there's a lot of value in making developers' lives easier with our service. However, we want to do it the 'right way': everything that powers our service is open-source and we can help you make your own cluster any time.&#x20;
+We do - that's why we chose the Chia blockchain in the first place! We do think, however, that an Infura-like provider will exist anyway for a variety of reasons. We think there's a lot of value in making developers' lives easier with our service. However, we are committed to doing it the 'right way': everything that powers our service is open-source and we can help you make your own cluster any time.&#x20;
 
 ## Open-source?
 
