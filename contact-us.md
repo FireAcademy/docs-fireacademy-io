@@ -2,10 +2,6 @@
 
 There are a lot of ways to get in touch with us! Please choose the one that is the most convenient to you.
 
-## Email
-
-You can reach us at `support@fireacademy.io`
-
 ## Twitter
 
 Feel free to engage with us at [@fireacademyio](https://twitter.com/fireacademyio). For fast PM responses, we recommend directly messaging [@yakuh1t0](https://twitter.com/yakuh1t0).
@@ -14,9 +10,13 @@ Feel free to engage with us at [@fireacademyio](https://twitter.com/fireacademyi
 
 [Our Discord](https://discord.gg/yNVNvQyYXn) has a dedicated channel for saying 'gm'.
 
+## Email
+
+You can reach us at `support@fireacademy.io`
+
 ## Pigeon Post
 
-Our address can be found at the bottom of our [Terms and Conditions](https://fireacademy.io/terms-and-conditions.txt).
+Our address can be found at the bottom of our [Terms and Conditions](https://fireacademy.io/terms-and-conditions.txt). If you meet yakuhito in-person, you can ask for photo evidence regarding pigeons.
 
 ## Phone No.
 
