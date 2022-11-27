@@ -1,6 +1,6 @@
 # Editing an API Key
 
-API keys can be modified by pressing 'Modify' in the corresponding entry in the 'API Keys' section of the [FireAcademy.io Dashboard](https://dashboard.fireacademy.io). When modifying an API key, you will be allowed to change 4 fields:
+API keys can be modified by using the 'Modify' button from the corresponding entry in the 'API Keys' section of the [FireAcademy.io Dashboard](https://dashboard.fireacademy.io). When modifying an API key, you will be allowed to change 4 fields:
 
 ## Name
 
