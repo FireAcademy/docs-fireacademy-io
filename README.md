@@ -1,7 +1,9 @@
 # Welcome
 
-Welcome to the official documentation for FireAcademy.io!
+Welcome to the official documentation for [FireAcademy.io](https://fireacademy.io/)!
 
 
 
-Please keep in mind that some pages are intended for technical audiences. If you have any questions, do not hesitate to contact us using any methods mentioned on the 'Contact Us' page in this book.
+If you still have questions after reading this resource, do not hesitate to [contact us](contact-us.md).
+
+_Note_: While most pages are intended for everyone, some were written for a more technically-inclined audience.
