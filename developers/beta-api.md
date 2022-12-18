@@ -4,6 +4,8 @@ description: The Beta API is in... beta.
 
 # Beta API
 
+For a better experience, please refer to [this generated page](https://app.swaggerhub.com/apis-docs/Yakuhito/Beta-API/1.0).
+
 ## Puzzles
 
 Wondering what's hidden behind an inner puzzle hash? Use this endpoint!
