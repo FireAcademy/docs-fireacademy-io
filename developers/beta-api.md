@@ -8,7 +8,7 @@ For a better experience, please refer to [this generated page](https://app.swagg
 
 ## Puzzles
 
-Wondering what's hidden behind an inner puzzle hash? Use this endpoint!
+Wondering what's hidden behind a singleton's inner puzzle hash? Use this endpoint to find out!
 
 {% swagger src="../.gitbook/assets/swagger.yaml" path="/get_puzzle" method="post" %}
 [swagger.yaml](../.gitbook/assets/swagger.yaml)
@@ -25,6 +25,8 @@ The reason Beta was invented.
 ## Sync
 
 Is Beta up-to-date or a trillion blocks behind?
+
+**Warning**: Not suitable for heptapods.
 
 {% swagger src="../.gitbook/assets/swagger.yaml" path="/get_peak_synced_block" method="get" %}
 [swagger.yaml](../.gitbook/assets/swagger.yaml)
