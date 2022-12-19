@@ -4,6 +4,10 @@ The up-to-date source code for Leaflet can be found [here](https://github.com/fi
 
 Any POST request to Leaflet's port (18444) will be treated as one that needs to be proxied to the Chia full node RPC.
 
+## FireAcademy.io
+
+Leaflet can be acessed at `https://kraken.fireacademy.io/leaflet/` or `https://kraken.fireacademy.io/{api-key}/leaflet/`. Each request costs 420 credits.
+
 ## Allowed endpoints
 
 ```typescript
