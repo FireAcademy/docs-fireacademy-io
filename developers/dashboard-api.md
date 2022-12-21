@@ -11,3 +11,6 @@ The following endpoints are exposed:
 * `POST /api/api-key` - Creates an API key. Takes 3 arguments: `weekly_credit_limit`, `name`, `origin`.
 * `PUT /api/api-key` - Certainly a very good use for the `PUT` HTTP verb. Updates an existing API key. Takes the following arguments: `api_key`, `disabled`, `weekly_credit_limit`, `name`, `origin`.
 * `POST /gift-code` - Redeems a gift code. Takes 2 arguments: `code` and `api_key`.
+* `POST /ticket` - Creates a new ticket - intended for the 'Feedback and Ideas Form.' The endpoints expects 4 arguments: `message`, `emotional_state`, `anonymous`, and `contact`.
+* `GET /updates` - Returns unread updates for the logged in user.
+* `POST /updates` - Marks all updates as acknowledged for the logged in user. Acknowledged updates are no longer returned in `GET` requests. Takes no arguments.
