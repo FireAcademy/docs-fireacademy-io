@@ -2,8 +2,9 @@
 
 * [Welcome](README.md)
 * [Grants](grants.md)
-* [FAQ](faq.md)
 * [Basic Concepts](basic-concepts.md)
+* [Pricing](pricing.md)
+* [FAQ](faq.md)
 
 ## Dashboard
 
