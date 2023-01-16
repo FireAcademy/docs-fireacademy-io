@@ -4,10 +4,6 @@ description: The Beta API is in... beta.
 
 # Beta API
 
-_**Note:** The Beta API is currently disabled for some much-needed updates. If you need to use it, please_ [_contact us_](../contact-us.md)_._
-
-
-
 Beta currently offers information about singletons.&#x20;
 
 ## FireAcademy.io
