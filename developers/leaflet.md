@@ -6,4 +6,40 @@ Any POST request to Leaflet's port (18444) will be treated as one that needs to 
 
 ## FireAcademy.io
 
-Leaflet can be accessed at `https://kraken.fireacademy.io/leaflet/` or `https://kraken.fireacademy.io/{api-key}/leaflet/`. Each request has a different, static cost - please see [this page](../pricing.md) for more information, including a list of the allowed endpoints.
+Leaflet can be acessed at `https://kraken.fireacademy.io/leaflet/` or `https://kraken.fireacademy.io/{api-key}/leaflet/`. Each request costs 420 credits.
+
+## Allowed endpoints
+
+```typescript
+export const ALLOWED_METHODS: string[] = [
+  'get_blockchain_state',
+  'get_block',
+  'get_blocks',
+  'get_block_count_metrics',
+  'get_block_record_by_height',
+  'get_block_record',
+  'get_block_records',
+  'get_unfinished_block_headers',
+  'get_network_space',
+  'get_additions_and_removals',
+  'get_network_info',
+  'get_recent_signage_point_or_eos',
+  'get_coin_records_by_puzzle_hash',
+  'get_coin_records_by_puzzle_hashes',
+  'get_coin_record_by_name',
+  'get_coin_records_by_names',
+  // 'get_coin_records_by_parent_ids',
+  'get_coin_records_by_hint',
+  'push_tx',
+  'get_puzzle_and_solution',
+  'get_all_mempool_tx_ids',
+  'get_all_mempool_items',
+  'get_mempool_item_by_tx_id',
+  'get_routes',
+  'healthz',
+];
+```
+
+## Note on \`get\_coin\_records\_by\_parent\_ids\`
+
+`get_coin_records_by_parent_ids` was disabled because it takes a lot of time (and resources) to execute. We recommend getting the puzzle and solution for each parent coin, running them, and deriving the children from there.
