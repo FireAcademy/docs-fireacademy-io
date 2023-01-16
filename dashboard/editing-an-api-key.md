@@ -10,9 +10,9 @@ The name is something that is only visible to you. It is intended to help you di
 
 This is a [CORS](https://en.wikipedia.org/wiki/Cross-origin\_resource\_sharing)-related parameter. Default is `*`.
 
-## Monthly Credit Limit
+## Weekly Credit Limit
 
-Through this parameter, you can control how many credits an API key is allowed to use each billing cycle (month). API keys whose usage reached this limit will be considered invalid until the next week. Default is 0, which means that the key has no credit limit.
+Through this parameter, you can control how many credits an API key is allowed to use each week. API keys whose usage reached this limit will be considered invalid until the next week. Default is 0, which means that the key has no weekly credit limit.
 
 ## Status
 
