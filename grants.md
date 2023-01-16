@@ -16,16 +16,14 @@ Free credits for our service. Recipients will receive one or more gift codes tha
 
 ## What is being asked for in return?
 
-Cooperation. We want to hear about your project, and even your ambitions if you want to share them. Feedback regarding our platform is always more than welcome.
+Cooperation. Alpha. We're growing with the ecosystem - when you win, we win. We want to hear about your project, and even your ambitions and aspirations if you are willing to share them. Feedback regarding our platform is always more than welcome.&#x20;
 
 ## Who can apply?
 
 Anyone building or running a project on the Chia blockchain on a budget. Our requirements are very flexible - as a rule of thumb, if your project is about to be launched or you ran out of free credits, you can just contact us. Projects that have already been launched are also highly encouraged to apply if they want to integrate with our service.
 
-We ask projects to keep in mind that we also have bills to pay. Grants will be given to those who want to try out the platform or pay the costs from their own pocket but, if you have the funds necessary, you are kindly asked to pay for our service. If unsure, just write us a message explaining your situation.
-
 ## How to apply?
 
-Decided to apply? That's great! This 'company' is currently ran by one person, so there's no need to be formal or present a 100-page proposal. Just drop [yakuh1t0](https://twitter.com/yakuh1t0) a message explaining what you're building and why you want/need the grant.
+Decided to apply? That's great! This 'company' is currently ran by one person, so there's no need to be formal or present a 100-page proposal. Just drop [yakuh1t0](https://twitter.com/yakuh1t0) a message explaining what you're building. If you prefer another communication channel, see the [Contact Us ](contact-us.md)page.
 
 An estimate of your weekly or monthly requests would be greatly appreciated, but is not needed.
