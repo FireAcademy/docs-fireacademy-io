@@ -16,6 +16,7 @@
 
 * [Using API Keys](developers/using-api-keys.md)
 * [Leaflet](developers/leaflet.md)
+* [Leaflet (testnet10)](developers/leaflet-testnet10.md)
 * [Dashboard API](developers/dashboard-api.md)
 * [Beta API](developers/beta-api.md)
 
